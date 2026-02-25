@@ -1,0 +1,3 @@
+I asked Chatgpt for help when it came to small errors such as an extra }, or I would also input my code and the rubric and I asked it
+what my grade would be, based off of this I knew what I needed to improve. 
+I also asked some friends for help on code
